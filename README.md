@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on a sports gambling predictions bot
 - 🌱 I’m currently learning SQL and AWS services
 - 💬 Ask me about my productivty/gaming setup
-- 📫 How to reach me: kevintrinh1227@gmail.com
 - ⚡ Fun fact: Minecraft is my comfort game
 </div>
