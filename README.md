@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinTrinh1227&theme=shadow-green&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KevinTrinh1227&theme=shadow-green&hide_border=true&border_radius=0&card_width=1000)](https://git.io/streak-stats)
