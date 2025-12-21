@@ -1,1 +1,12 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinTrinh1227&theme=shadow-green&hide_border=true&border_radius=0&card_width=1000)](https://www.kevintrinh.dev)
+<h1 align="center">Hi 👋, I'm Kevin Trinh</h1>
+<h3 align="center">I like to build cool things that solve problems!</h3>
+
+- 🔭 I’m currently working on [CoogPlanner](CoogPlanner.com)
+
+- 👨‍💻 All of my projects are available at [https://www.kevintrinh.dev/projects](https://www.kevintrinh.dev/projects)
+
+- 📝 I regularly write articles on [https://www.kevintrinh.dev/articles](https://www.kevintrinh.dev/articles)
+
+- 📫 How to reach me **https://www.kevintrinh.dev/contact**
+
+- 📄 Know about my experiences [https://www.kevintrinh.dev/resume](https://www.kevintrinh.dev/resume)
