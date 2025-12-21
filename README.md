@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Trinh</h1>
-<h3 align="center">I like to build cool things that solve problems!</h3>
+<h3 align="center">Currently pursuing a Computer Science B.S. @ University of Houston</h3>
 
 - 🔭 I’m currently working on [CoogPlanner](CoogPlanner.com)
 
