@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [**CoogPlanner.com**](CoogPlanner.com)
 
-- 👨‍💻 All of my projects are available on my [**GitHub**](https://github.com/KevinTrinh1227?tab=repositories) or on my [**KevinTrinh.dev**](https://www.kevintrinh.dev/projects)
-
 - 📝 I regularly write articles on my portfolio's [**Article Page**](https://www.kevintrinh.dev/articles)
 
 - 📫 Want to reach or connect with me? Click: [**All My Contact Info**](https://www.kevintrinh.dev/projects)
